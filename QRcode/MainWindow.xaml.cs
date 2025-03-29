@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Aspose.BarCode;
+using Aspose.BarCode.Generation;
 
 namespace QRcode
 {
@@ -23,6 +25,13 @@ namespace QRcode
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Aspose.BarCode.License AsposeBarCodeLicense = new Aspose.BarCode.License();
+            AsposeBarCodeLicense.SetLicense(@"c:\asposelicense\license.lic");
+
         }
     }
 }
