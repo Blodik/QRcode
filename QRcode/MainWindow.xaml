@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox HorizontalAlignment="Center" Margin="0,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+        <Label Content="Вставте тест" HorizontalAlignment="Left" Margin="270,78,0,0" VerticalAlignment="Top"/>
+        <Button Content="Сгенерировать" HorizontalAlignment="Left" Margin="604,349,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.443,0.567" Width="153"/>
+        <Button Content="Отчистить" HorizontalAlignment="Left" Margin="604,389,0,0" VerticalAlignment="Top" Width="153"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="81,252,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.53,0.48"/>
+
     </Grid>
 </Window>
