@@ -32,6 +32,11 @@ namespace QRcode
             Aspose.BarCode.License AsposeBarCodeLicense = new Aspose.BarCode.License();
             AsposeBarCodeLicense.SetLicense(@"c:\asposelicense\license.lic");
 
+            BarcodeGenerator QRCodeGenerator = new BarcodeGenerator(EncodeTypes.QR);
+
+            QRCodeGenerator.CodeText = textBox1.Text;
+
+
         }
     }
 }
