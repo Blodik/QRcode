@@ -7,11 +7,20 @@
         mc:Ignorable="d"
         Title="Генерация QR-code" Height="450" Width="800">
     <Grid>
-        <TextBox x:Name="textBox1" HorizontalAlignment="Center" Margin="0,109,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
-        <Label Content="Вставте тест" HorizontalAlignment="Left" Margin="270,78,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="Button1" Content="Сгенерировать" HorizontalAlignment="Left" Margin="604,307,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.443,0.567" Width="153" Click="Button_Click"/>
-        <Button x:Name="Button2" Content="Отчистить" HorizontalAlignment="Left" Margin="604,353,0,0" VerticalAlignment="Top" Width="153" Click="Button2_Click"/>
-        <Image x:Name="Image1" HorizontalAlignment="Left" Height="157" Margin="142,180,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.513,0.5"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="179,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+        <Label Content="Вставте тест" HorizontalAlignment="Left" Margin="182,112,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Button1" Content="Сгенерировать" HorizontalAlignment="Left" Margin="182,180,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.443,0.567" Width="152" Click="Button_Click"/>
+        <Button x:Name="Button2" Content="Отчистить" HorizontalAlignment="Left" Margin="612,379,0,0" VerticalAlignment="Top" Width="153" Click="Button2_Click"/>
+        <Image x:Name="Image1" HorizontalAlignment="Left" Height="157" Margin="10,10,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.51,0.494"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="184,317,0,0" VerticalAlignment="Top" Width="153" Click="Button_Click_1"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="182,236,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+        <Label Content="Вставте путь для сохранения" HorizontalAlignment="Left" Margin="182,210,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name ="textBox3" HorizontalAlignment="Left" Margin="184,283,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+        <Label Content="Назовите QR-code" HorizontalAlignment="Left" Margin="184,257,0,0" VerticalAlignment="Top" Width="125"/>
+        <TextBox x:Name ="textBox4" HorizontalAlignment="Left" Margin="494,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="246"/>
+        <Label Content="Укажите путь к QR-code для загрузки" HorizontalAlignment="Left" Margin="494,94,0,0" VerticalAlignment="Top"/>
+        <Button Content="Загрузить" HorizontalAlignment="Left" Margin="495,180,0,0" VerticalAlignment="Top" Width="139" Click="Button_Click_2"/>
+        <Label Content="В конце пути укажите имя файла с расширением" HorizontalAlignment="Left" Margin="494,117,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.242,0.346"/>
 
     </Grid>
 </Window>

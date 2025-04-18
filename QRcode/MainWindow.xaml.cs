@@ -56,6 +56,38 @@ namespace QRcode
         {
             textBox1.Text = null;
             Image1.Source = null;
+            textBox2.Text = null;
+            textBox3.Text = null;
+            textBox4.Text = null;
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            string filepath = textBox2.Text;
+            string filename = textBox3.Text;
+            filepath = filepath + "\\" + filename + ".png";
+
+            BarcodeGenerator QRCodeGenerator = new BarcodeGenerator(EncodeTypes.QR)
+            {
+                CodeText = textBox1.Text
+            };
+
+            QRCodeGenerator.Save(filepath, BarCodeImageFormat.Png);
+
+            MessageBox.Show($"Qr-code сохранен: {filepath}");
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            string filepath = textBox4.Text;
+
+            BitmapImage bitmap = new BitmapImage();
+
+            bitmap.BeginInit();
+            bitmap.UriSource = new Uri(filepath);
+            bitmap.EndInit();
+
+            Image1.Source = bitmap;
         }
     }
 }
