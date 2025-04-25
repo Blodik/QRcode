@@ -30,8 +30,7 @@
               "RelativeToolTip": "QRcode\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-29T12:44:50.394Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "QRcode\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\QRcode\\QRcode\\MainWindow.xaml.cs",
               "RelativeToolTip": "QRcode\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowFkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv2sAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T12:44:49.936Z",
               "EditorCaption": ""

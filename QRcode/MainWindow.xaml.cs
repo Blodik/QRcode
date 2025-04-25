@@ -56,38 +56,62 @@ namespace QRcode
         {
             textBox1.Text = null;
             Image1.Source = null;
-            textBox2.Text = null;
-            textBox3.Text = null;
-            textBox4.Text = null;
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            string filepath = textBox2.Text;
-            string filename = textBox3.Text;
-            filepath = filepath + "\\" + filename + ".png";
-
-            BarcodeGenerator QRCodeGenerator = new BarcodeGenerator(EncodeTypes.QR)
+            if (Image1.Source == null) 
             {
-                CodeText = textBox1.Text
+                MessageBox.Show("QR code не создан");
+                return;
+            }
+
+            var saveDialog = new Microsoft.Win32.SaveFileDialog
+            {
+                Filter = "PNG Image (*.png)|*.png",
+                DefaultExt = ".png"
             };
 
-            QRCodeGenerator.Save(filepath, BarCodeImageFormat.Png);
+            if (saveDialog.ShowDialog() != true) return;
 
-            MessageBox.Show($"Qr-code сохранен: {filepath}");
+            try
+            {
+                var fileStream = new FileStream(saveDialog.FileName, FileMode.Create);
+                var encoder = new PngBitmapEncoder();
+                encoder.Frames.Add(BitmapFrame.Create((BitmapSource)Image1.Source));
+                encoder.Save(fileStream);
+                MessageBox.Show("QR code сохранен");
+                
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка сохранения", "Ошибка");
+            }
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            string filepath = textBox4.Text;
+            var openDialog = new Microsoft.Win32.OpenFileDialog
+            {
+                Filter = "PNG Image (*.png)|*.png",
+                DefaultExt = ".png"
+            };
 
-            BitmapImage bitmap = new BitmapImage();
-
-            bitmap.BeginInit();
-            bitmap.UriSource = new Uri(filepath);
-            bitmap.EndInit();
-
-            Image1.Source = bitmap;
+            if (openDialog.ShowDialog() != true) return;
+            try 
+            {
+                var fileStream = new FileStream(openDialog.FileName, FileMode.Open);
+                var bitmap = new BitmapImage();
+                bitmap.BeginInit();
+                bitmap.CacheOption = BitmapCacheOption.OnLoad;
+                bitmap.StreamSource = fileStream;
+                bitmap.EndInit();
+                Image1.Source = bitmap;
+            }
+            catch
+            {
+                MessageBox.Show("Ошибка загрузки", "Ошибка");
+            }
         }
     }
 }

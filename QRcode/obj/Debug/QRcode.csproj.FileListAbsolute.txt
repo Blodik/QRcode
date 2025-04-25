@@ -7,7 +7,6 @@ C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.AssemblyRefere
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\MainWindow.g.cs
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\App.g.cs
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode_MarkupCompile.cache
-C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode_MarkupCompile.lref
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\MainWindow.baml
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.g.resources
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
@@ -16,3 +15,4 @@ C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.CoreCompileInp
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.Up2Date
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.exe
 C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.pdb
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode_MarkupCompile.lref
