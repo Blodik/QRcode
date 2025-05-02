@@ -1,0 +1,58 @@
+C:\Users\admin\source\repos\QRcode\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\admin\source\repos\QRcode\QRcode\bin\Debug\QRcode.exe
+C:\Users\admin\source\repos\QRcode\QRcode\bin\Debug\QRcode.pdb
+C:\Users\admin\source\repos\QRcode\QRcode\bin\Debug\Aspose.BarCode.dll
+C:\Users\admin\source\repos\QRcode\QRcode\bin\Debug\Aspose.BarCode.xml
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode_MarkupCompile.cache
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.g.resources
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.csproj.Up2Date
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.exe
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode.pdb
+C:\Users\admin\source\repos\QRcode\QRcode\obj\Debug\QRcode_MarkupCompile.lref
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\bin\Debug\QRcode.exe.config
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\bin\Debug\QRcode.exe
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\bin\Debug\QRcode.pdb
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\bin\Debug\Aspose.BarCode.dll
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\bin\Debug\Aspose.BarCode.xml
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.AssemblyReference.cache
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\Autorizator.g.cs
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\MainWindow.g.cs
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\App.g.cs
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode_MarkupCompile.cache
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode_MarkupCompile.lref
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\MainWindow.baml
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\Autorizator.baml
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.g.resources
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.Up2Date
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.exe
+C:\compile_temp\3523П1ИН1\Афанасьев Александр\C#\QRcode-downlod\QRcode\obj\Debug\QRcode.pdb
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\bin\Debug\QRcode.exe
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\bin\Debug\QRcode.pdb
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\bin\Debug\Aspose.BarCode.dll
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\bin\Debug\Aspose.BarCode.xml
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\Autorizator.g.cs
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode_MarkupCompile.cache
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode_MarkupCompile.lref
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\Autorizator.baml
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\MainWindow.baml
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.g.resources
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.csproj.Up2Date
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.exe
+C:\Users\admin\Downloads\QRcode-downlod\QRcode\obj\Debug\QRcode.pdb

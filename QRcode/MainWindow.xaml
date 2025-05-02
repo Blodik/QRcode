@@ -1,0 +1,20 @@
+﻿<Window x:Class="QRcode.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QRcode"
+        mc:Ignorable="d"
+        Title="QRCODER" Height="450" Width="800">
+	<Grid>
+		<TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="249,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="260"/>
+		<Label Content="Вставте тест" HorizontalAlignment="Left" Margin="249,112,0,0" VerticalAlignment="Top"/>
+		<Button x:Name="Button1" Content="Сгенерировать" HorizontalAlignment="Left" Margin="182,180,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.443,0.567" Width="152" Click="Button_Click"/>
+		<Button x:Name="Button2" Content="Отчистить" HorizontalAlignment="Left" Margin="399,180,0,0" VerticalAlignment="Top" Width="153" Click="Button2_Click"/>
+		<Image x:Name="Image1" HorizontalAlignment="Left" Height="157" Margin="10,10,0,0" VerticalAlignment="Top" Width="157" RenderTransformOrigin="0.51,0.494"/>
+		<Button Content="Сохранить" HorizontalAlignment="Left" Margin="182,236,0,0" VerticalAlignment="Top" Width="152" Click="Button_Click_1"/>
+		<Button Content="Загрузить" HorizontalAlignment="Left" Margin="399,236,0,0" VerticalAlignment="Top" Width="161" Click="Button_Click_2"/>
+		<Label Content="Создание QR-сode" HorizontalAlignment="Left" Margin="287,43,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+	</Grid>
+</Window>

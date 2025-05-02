@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|c:\\users\\admin\\downloads\\qrcode-downlod\\qrcode\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|C:\\Users\\admin\\Downloads\\QRcode-downlod\\qrcode\\autorizator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\autorizator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|C:\\Users\\admin\\Downloads\\QRcode-downlod\\qrcode\\autorizator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\autorizator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|C:\\Users\\admin\\Downloads\\QRcode-downlod\\qrcode\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|C:\\Users\\admin\\Downloads\\QRcode-downlod\\qrcode\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|C:\\Users\\admin\\Downloads\\QRcode-downlod\\qrcode\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86E62B4-BABF-4E37-B9DE-3E2398948C81}|QRcode\\QRcode.csproj|solutionrelative:qrcode\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QRcode\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\MainWindow.xaml",
+              "RelativeToolTip": "QRcode\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T10:18:24.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\App.xaml",
+              "RelativeDocumentMoniker": "QRcode\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\App.xaml",
+              "RelativeToolTip": "QRcode\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T10:23:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QRcode\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\App.xaml.cs",
+              "RelativeToolTip": "QRcode\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:15:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autorizator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\Autorizator.xaml.cs",
+              "RelativeDocumentMoniker": "QRcode\\Autorizator.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\Autorizator.xaml.cs",
+              "RelativeToolTip": "QRcode\\Autorizator.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:08:25.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autorizator.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\Autorizator.xaml",
+              "RelativeDocumentMoniker": "QRcode\\Autorizator.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\Autorizator.xaml",
+              "RelativeToolTip": "QRcode\\Autorizator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T10:04:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QRcode\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\QRcode-downlod\\QRcode\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QRcode\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:44:49.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
